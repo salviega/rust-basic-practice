@@ -11,18 +11,6 @@ https://github.com/salviega/rust-basic-practice.git
 
 ```
 
-> Install dependencies:
-
-```
-npm install
-```
-
-> Run the project:
-
-```
-npm start
-```
-
 ## Authors 🏗
 
 [salviega](https://github.com/salviega)
